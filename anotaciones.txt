@@ -1,0 +1,7 @@
+*   En la columna description tiene tipo TEXT porque acepta mas caracteres que el VARCHAR.
+*   Cuando ponemos de tipo TIMESTAMP para la fecha como tipo y le agregamos como predeterminado CURRENT_TIMESTAMP
+lo que hace es agregar la fecha que tiene la maquina autoaticamente
+* header() nos permite enviar encabezados sin formato al cliente.
+*   include() lo que es incluir el fichero pero si hay un error continua con el proceso 
+*   require() Si el fichero a incluir no existe require para la ejecución y muestra un error 
+* Lo que se hace con session en la aplicación es guardar mensajes y visualizarlos por pantalla
